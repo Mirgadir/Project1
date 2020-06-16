@@ -38,7 +38,7 @@ WILL THIS NEW TEAM BE ABLE TO MAKE THE ACCURATE PREDICTION? LETS FIND OUT!
 
 
 ### All Rights Reserved
-Prensetation made by Umar Farooq, approved by Project Team.
+Prensentation made by Umar Farooq, approved by Project Team.
 
 
 
