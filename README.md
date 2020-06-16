@@ -12,14 +12,14 @@ WILL THIS NEW TEAM BE ABLE TO MAKE THE ACCURATE PREDICTION? LETS FIND OUT!
 
 ## Research QUESTIONS TO ANSWER
 
-Q.1. Which are the top 10 teams in the current season, till the last data point?
-Q.2. What are the scores of the top ten teams? And their win to loss ratio.
-Q.3. Does the home team win more matches or the visitors team win more matches?
-Q.4. What are the locations of the game?
-Q.5. Which teams out of the top ten has better players stats? Developing a quality score for teams after aggregating the stats of team players.
-Q.6. Heat map indicators of which teams fare best against teams from opposing side.
-Q.7. Calculating correlation between team player stats and game won by the team.
-Q.8. Defining winning parameters for win prediction.
+* Q.1. Which are the top 10 teams in the current season, till the last data point?
+* Q.2. What are the scores of the top ten teams? And their win to loss ratio.
+* Q.3. Does the home team win more matches or the visitors team win more matches?
+* Q.4. What are the locations of the game?
+* Q.5. Which teams out of the top ten has better players stats? Developing a quality score for teams after aggregating the stats of team players.
+* Q.6. Heat map indicators of which teams fare best against teams from opposing side.
+* Q.7. Calculating correlation between team player stats and game won by the team.
+* Q.8. Defining winning parameters for win prediction.
 
 ## Breakdown OF TASKS
 
@@ -29,9 +29,16 @@ Q.8. Defining winning parameters for win prediction.
 4. Calculate the number of win count by home team and visitors team and represent them in a pie chart.
 5. Use Google API to match venue location and extract their latitude and longitude. Map game location on Google Maps.
 6. Extract player points and average their data in new data frame. Sum all the teams player data and match them to their respective team.
-7. Heat map indicators of which teams fare best against teams from opposing side. (Please identify tasks for this)
+7. Heat map indicators of which teams fare best against teams from opposing side. 
 8. Calculating correlation between team player stats and game won by the team.
 9. Defining winning parameters for win prediction.
+
+
+
+
+
+### All Rights Reserved
+Prensetation made by Umar Farooq, approved by Project Team.
 
 
 
