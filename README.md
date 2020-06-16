@@ -8,7 +8,7 @@ It all started when a group of 5 hotshots were hired by Mr. Drake Romaro, a bill
 Mr. Romaro has started his own analytics company to analyze the 2019 – 2020 basketball season data predicted the winning team. He has recently asked fresh graduates from UT Austin Data Camp to help him win big this season.
 ![icon](Images/2.PNG)
 
-WILL THIS NEW TEAM BE ABLE TO MAKE THE ACCURATE PREDICTION? LETS FIND OUT!
+#### WILL THIS NEW TEAM BE ABLE TO MAKE THE ACCURATE PREDICTION? LETS FIND OUT!
 
 ## Research QUESTIONS TO ANSWER
 
@@ -23,15 +23,15 @@ WILL THIS NEW TEAM BE ABLE TO MAKE THE ACCURATE PREDICTION? LETS FIND OUT!
 
 ## Breakdown OF TASKS
 
-1. Importing and merging relevant data files.
-2. Create data frame of top ten teams and their respective scores and ratio.
-3. Create Bar graph of top ten teams.
-4. Calculate the number of win count by home team and visitors team and represent them in a pie chart.
-5. Use Google API to match venue location and extract their latitude and longitude. Map game location on Google Maps.
-6. Extract player points and average their data in new data frame. Sum all the teams player data and match them to their respective team.
-7. Heat map indicators of which teams fare best against teams from opposing side. 
-8. Calculating correlation between team player stats and game won by the team.
-9. Defining winning parameters for win prediction.
+* Importing and merging relevant data files.
+* Create data frame of top ten teams and their respective scores and ratio.
+* Create Bar graph of top ten teams.
+* Calculate the number of win count by home team and visitors team and represent them in a pie chart.
+* Use Google API to match venue location and extract their latitude and longitude. Map game location on Google Maps.
+* Extract player points and average their data in new data frame. Sum all the teams player data and match them to their respective team.
+* Heat map indicators of which teams fare best against teams from opposing side. 
+* Calculating correlation between team player stats and game won by the team.
+* Defining winning parameters for win prediction.
 
 
 
