@@ -6,7 +6,7 @@
 
 It all started when a group of 5 hotshots were hired by Mr. Drake Romaro, a billionaire who made his fortune from betting on sports. While his initial bets were lucky hoops, which made him a fortune, now he thinks he needs to develop a calculated wining strategy.
 Mr. Romaro has started his own analytics company to analyze the 2019 – 2020 basketball season data predicted the winning team. He has recently asked fresh graduates from UT Austin Data Camp to help him win big this season.
-
+![icon](Images/2.PNG)
 
 WILL THIS NEW TEAM BE ABLE TO MAKE THE ACCURATE PREDICTION? LETS FIND OUT!
 
