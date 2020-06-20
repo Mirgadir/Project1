@@ -39,7 +39,6 @@ Mr. Romaro has started his own analytics company to analyze the 2019 – 2020 ba
 * Use Google API to match venue location and extract their latitude and longitude. Map game location on Google Maps.- Max (NBA_venua.csv)
 * Heat map indicators of teams with more wins. - Max (NBA_venua.csv)
 * Extract player points and average their data in new data frame. Sum all the teams player data and match them to their respective team. (Use columns MIN, FG_PCT, PTS from games_details.csv) - Team work 
->>>>>>> 3592c489f1a5f9becc8cfd1eb4c173505afb780b
 * Calculating correlation between team player stats and game won by the team. - Umar
 * Make scatter plots of Team Win vs. Player Stats and run regression for each conference. - Umar 
 * Make observation as per analysis results and define winning parameters for win prediction. - Umar
