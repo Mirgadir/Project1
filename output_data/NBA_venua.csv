@@ -1,31 +1,31 @@
 ,Team Name,Abbreviation,"City, State",Venue,Latitude,Longitude
-0,Raptors,TOR,"Toronto, ON",Scotiabank Arena,43.643333,-79.379167
-1,Celtics,BOS,"Dallas, TX",American Airlines Center,32.790556,-96.810278
-2,Knicks,NYK,"New York, NY",Madison Square Garden,40.750556,-73.993611
-3,Nets,BRO,"Washington, DC",Capital One Arena,38.89801,-77.0231909
-4,76ers,PHI,"Denver, CO",Pepsi Center,39.748611,-105.0075
-5,Cavaliers,CLE,"Atlanta, GA",State Farm Arena,33.757222,-84.396389
-6,Pacers,IND,"Los Angeles, CA",Staples Center,34.043056,-118.267222
-7,Pistons,DET,"Boston, MA",TD Garden,42.366303,-71.062228
-8,Bulls,CHI,"Chicago, IL",United Center,41.880556,-87.674167
-9,Bucks,MIL,"Philadelphia, PA",Wells Fargo Center,39.901111,-75.171944
-10,Hawks,ATL,"Brooklyn, NY",Barclays Center,40.682661,-73.975225
-11,Heat,MIA,"Cleveland, OH",Quicken Loans Arena,41.496389,-81.688056
-12,Hornets,CHA,"Indianapolis, IN",Bankers Life Fieldhouse,39.763889,-86.155556
-13,Wizards,WAS,"Miami, FL",American Airlines Arena,25.781389,-80.188056
-14,Magic,ORL,"Charlotte, NC",Spectrum Center,35.225,-80.839167
-15,Thunder,OKL,"Orlando, FL",Amway Center,28.539167,-81.383611
-16,Trail Blazers,POR,"Oklahama City, OK",Chesapeake Energy Arena,35.463333,-97.515
-17,Jazz,UTA,"Portland, OR",Moda Center,45.531667,-122.666667
-18,Nuggets,DEN,"Salt Lake City, UT",Vivint Smart Home Arena,40.768333,-111.901111
-19,Timberwolves,MIN,"Minneapolis, MN",Target Center,44.979444,-93.276111
-20,Warriors,GSW,"Phoenix, AZ",Talking Stick Resort Arena,33.445833,-112.071389
-21,Clippers,LAC,"San Antonio, TX",AT&T Center,29.426944,-98.4375
-22,Kings,SAC,"Memphis, TN",FedEx Forum,35.138333,-90.050556
-23,Suns,PHX,"Houston, TX",Toyota Center,29.750833,-95.362222
-24,Lakers,LAL,"New Orleans, LA",Smoothie King Center,29.948889,-90.081944
-25,Spurs,SAS,"Detroit, MI",Little Caesars Arena,42.341111,-83.055
-26,Grizzlies,MEM,"San Francisco, CA",Chase Center,37.768056,-122.3875
-27,Mavericks,DAL,"Sacramento, CA",Golden 1 Center,38.580361,-121.499611
-28,Rockets,HOU,"Milwaukee, WI",Fiserv Forum,43.045028,-87.918167
-29,Pelicans,NOP,Paris,AccorHotels Arena,48.838653,2.3785
+0,Hawks,ATL,"Atlanta, GA",State Farm Arena,33.757222,-84.396389
+1,Celtics,BOS,"Boston, MA",TD Garden,42.366303,-71.062228
+2,Nets,BRO,"Brooklyn, NY",Barclays Center,40.682661,-73.975225
+3,Hornets,CHA,"Charlotte, NC",Spectrum Center,35.225,-80.839167
+4,Bulls,CHI,"Chicago, IL",United Center,41.880556,-87.674167
+5,Cavaliers,CLE,"Cleveland, OH",Quicken Loans Arena,41.496389,-81.688056
+6,Mavericks,DAL,"Dallas, TX",American Airlines Center,32.790556,-96.810278
+7,Nuggets,DEN,"Denver, CO",Pepsi Center,39.748611,-105.0075
+8,Pistons,DET,"Detroit, MI",Little Caesars Arena,42.341111,-83.055
+9,Rockets,HOU,"Houston, TX",Toyota Center,29.750833,-95.362222
+10,Pacers,IND,"Indianapolis, IN",Bankers Life Fieldhouse,39.763889,-86.155556
+11,Clippers,LAC,"Los Angeles, CA",Staples Center,34.043056,-118.267222
+12,Lakers,LAL,"Los Angeles, CA",Staples Center,34.043056,-118.267222
+13,Grizzlies,MEM,"Memphis, TN",FedEx Forum,35.138333,-80.188056
+14,Heat,MIA,"Miami, FL",American Airlines Arena,25.7755,-80.1862
+15,Bucks,MIL,"Milwaukee, WI",Fiserv Forum,43.045028,-87.918167
+16,Timberwolves,MIN,"Minneapolis, MN",Target Center,44.979444,-93.276111
+17,Pelicans,NOP,"New Orleans, LA",Smoothie King Center,29.948889,-90.081944
+18,Knicks,NYK,"New York, NY",Madison Square Garden,40.750556,-73.993611
+19,Thunder,OKL,"Oklahama City, OK",Chesapeake Energy Arena,35.463333,-97.515
+20,Magic,ORL,"Orlando, FL",Amway Center,28.539167,-81.383611
+21,76ers,PHI,"Philadelphia, PA",Wells Fargo Center,39.901111,-75.171944
+22,Suns,PHX,"Phoenix, AZ",Talking Stick Resort Arena,33.445833,-112.071389
+23,Trail Blazers,POR,"Portland, OR",Moda Center,45.531667,-122.666667
+24,Kings,SAC,"Sacramento, CA",Golden 1 Center,38.580361,-121.499611
+25,Jazz,SAC,"Salt Lake City, UT",Vivint Smart Home Arena,40.768333,-111.901111
+26,Spurs,SAS,"San Antonio, TX",AT&T Center,29.426944,-98.4375
+27,Warriors,GSW,"San Francisco, CA",Chase Center,37.768056,-122.3875
+28,Raptors,TOR,"Toronto, ON",Scotiabank Arena,43.643333,-79.379167
+29,Wizards,WAS,"Washington, DC",Capital One Arena,38.89801,-77.0231909
