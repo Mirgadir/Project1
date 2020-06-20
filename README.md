@@ -23,7 +23,6 @@ Mr. Romaro has started his own analytics company to analyze the 2019 – 2020 ba
 
 ## Breakdown OF TASKS
 
-<<<<<<< HEAD
 * Importing and merging relevant data files. - Andrew/Miri
 * Create data frame of top 8 teams and their respective win/loss scores and ratio. -Miri
 * Make a bar graph with wins in green and losses in red. - Miri
