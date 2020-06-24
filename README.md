@@ -41,8 +41,8 @@ Mr. Romaro has started his own analytics company to analyze the 2019 – 2020 ba
 
 
 ## Data sources:
-https://www.kaggle.com/nathanlauga/nba-games?select=teams.csv \n
-https://www.mysportsfeeds.com/data-feeds/ 
+* https://www.kaggle.com/nathanlauga/nba-games?select=teams.csv
+* https://www.mysportsfeeds.com/data-feeds/ 
 
 ### All Rights Reserved
 Prensentation made by Umar Farooq, approved by Project Team.
