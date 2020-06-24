@@ -23,6 +23,14 @@ Mr. Romaro has started his own analytics company to analyze the 2019 – 2020 ba
 
 ## Breakdown OF TASKS
 
+* Importing and merging relevant data files. - Andrew/Miri
+* Create data frame of top 8 teams and their respective win/loss scores and ratio. -Miri
+* Make a bar graph with wins in green and losses in red. - Miri
+* Calculate the number of win count by home team and visitors team and represent them in a pie chart. - Andrew 
+* Use Google API to match venue location and extract their latitude and longitude. Map game location on Google Maps.- Max
+* Extract player points and average their data in new data frame. Sum all the teams player data and match them to their respective team. (Use columns MIN, FG_PCT, PTS from games_details.csv) - Team work 
+* Heat map indicators of teams with more wins. - Kirsten
+=======
 * Importing and merging relevant data files. - Andrew/Miri (2019-2020-NBA.csv, 2019-2020-player.csv, NBA_venua.csv, 2019-20_TEAMSTATS.csv, games_details.csv)
 * Create data frame of top 8 teams and their respective win/loss scores and ratio. -Miri
 * Calculate the number of win count by home team and visitors team and represent them in a pie chart. - Andrew 
