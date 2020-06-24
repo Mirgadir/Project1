@@ -26,7 +26,7 @@ Mr. Romaro has started his own analytics company to analyze the 2019 – 2020 ba
 * Importing and merging relevant data files. - Andrew/Miri
 * Create data frame of top 8 teams and their respective win/loss scores and ratio. -Miri
 * Calculate the number of win count by home team and visitors team and represent them in a pie chart. - Andrew 
-* Make a bar graph with wins in green and losses in red. - Mir
+* Make a bar graph with wins in green and losses in red. - Miri
 * Use Google API to match venue location and extract their latitude and longitude. Map game location on Google Maps.- Max
 * Extract player points and average their data in new data frame. Sum all the teams player data and match them to their respective team. (Use columns MIN, FG_PCT, PTS from games_details.csv) - Umar 
 * Heat map indicators of teams with more wins. - Max/Kirsten
