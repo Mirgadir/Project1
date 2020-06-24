@@ -14,10 +14,10 @@ Mr. Romaro has started his own analytics company to analyze the 2019 – 2020 ba
 ## Research QUESTIONS TO ANSWER
 
 *Q.1. Which are the top 8 teams for each conference in the current season, till the last data point? What are the scores of the top 8 teams? And their win to loss ratio. For each conference.
-Q.2. Does the home team win more or the visitors team win more matches?
-Q.3. What are the locations of the game? Heat map indicators of teams with more wins.
-Q.4. Calculating correlation between team player stats, team field goal % and other variables against games won by the team.
-Q.5. Defining winning parameters to determine a score for “Win Factor” of each team.
+* Q.2. Does the home team win more or the visitors team win more matches?
+* Q.3. What are the locations of the game? Heat map indicators of teams with more wins.
+* Q.4. Calculating correlation between team player stats, team field goal % and other variables against games won by the team.
+* Q.5. Defining winning parameters to determine a score for “Win Factor” of each team.
 
 
 ## Breakdown OF TASKS
@@ -38,8 +38,10 @@ Q.5. Defining winning parameters to determine a score for “Win Factor” of e
 
 ## Data sources:
 * https://www.kaggle.com/nathanlauga/nba-games?select=teams.csv
+
 ![icon](Images/4.PNG)
 * https://www.mysportsfeeds.com/data-feeds/
+
 ![icon](Images/3.PNG) 
 
 ### All Rights Reserved
