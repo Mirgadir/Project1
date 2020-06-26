@@ -1,0 +1,12 @@
+Project1 Code Write Up:
+
+After Kirsten Walkup cleaned the data from mysportsfeed API I utilized git fetch for getting the updated Raw_Data folder which contained the two csv's I would need to create the lat long markers for nba venues (NBA_venua.csv) and a heat map detailing the nba teams winning percentage (2019-20_TEAMSTATS.csv).  Git fetch was necessary because it allowed me to specific target data files that could be updated without having to completely re-write my code.
+
+Imported gmaps, pandas and config import g key to run API calls.  First, I created a data frame from the Raw_Data/NBA-venua.csv using pd.read_csv() named venue_df.  It contained the lat long lines of NBA venues. Stored the lat long data in "locations".  For simplicity I did not customize the figure layout.  Then I assigned markers by using gam's.figure(layout=figure_layout) and added the layer of markers by using fig.add_layer(markers).  Printed the figure and took a screenshoot to pass to Umar for the presentation.
+
+The heat map was created by importing the Raw_Data/2019-20_TEAMSTATS.csv and creating a data frame with pd.read_csv() named winpct_df.  Next I merged venue_df and winpct_df on Team Name creating a new data frame named heatmap_df.  Like before I stored the lat long in a new list called heatmap_locations and converted the win pct data to a float.  Named the heat map fig_1.  Ultimately went with the direction of my teammates regarding the look of the heat map:
+
+heat_layer = gmaps.heatmap_layer(heatmap_locations, weights=win_pct, dissipating=False, max_intensity=1.5, point_radius=2.0)
+
+Printed the figure and took a screenshoot to pass to Umar for the presentation.
+<end/>
